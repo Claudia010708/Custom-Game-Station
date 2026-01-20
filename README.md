@@ -39,7 +39,7 @@ Side-Knee-Button:
 * 3D printed devices (Joystick Top, Joystick cap, Top Cover, Side Knee holder, Side Knee Button holder)
 
 ## User Documentation
-* [Presentation](User%20Manual/)
-* User Manual
+* Presentation
+* [User Manual](User%20Manual/)
 * [CAD files](CAD%20Files/)
 
