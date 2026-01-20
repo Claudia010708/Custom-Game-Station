@@ -23,12 +23,6 @@ Side-Knee-Button:
 * Has a specific Side-Knee-Holder
 * Easy to use, convenient positioning and easy operation with minimal effort
 
-## Web Connection
-Follow the steps:
-1. Open the [Espruino Web IDE](https://www.espruino.com/ide/) on your browser
-2. Connect your Puck.js to your computer via Bluetooth (Top-left button)
-3. Load the firmware [Put here the final code] into the Espruino Web IDE.
-4. Click the "Send to Espruino (Flash)" button in the IDE to upload the firmware to your Puck.js.
 
 ## Technical specifications
 * Microcontroller: Puck.js with Bluetooth Low Energy (BLE) support
@@ -45,7 +39,7 @@ Follow the steps:
 * 3D printed devices (Joystick Top, Joystick cap, Top Cover, Side Knee holder, Side Knee Button holder)
 
 ## User Documentation
-* Presentation
+* [Presentation](User%20Manual/)
 * User Manual
 * [CAD files](CAD%20Files/)
 
