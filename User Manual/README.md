@@ -29,7 +29,7 @@ Before playing a calibration step is required. By performing a long press (~ 2 s
 
 * Side-knee-button
 
-A short press of this button (1 click) is translated into the left click of the mouse, so make the player interact with the game environment. A double press of this button (double click) will change the joystick behaviour: this feature let the player change between the movement control (the WASD keys) and the perspective point of view (the mouse movement), and vice versa. This allows the player to navigate and look around using the same joystick without needing extra devices.
+A short press of this button (1 click) is translated into the left click of the mouse, so make the player interact with the game environment. A long press of this button will change the joystick behaviour: this feature let the player change between the movement control (the WASD keys) and the perspective point of view (the mouse movement), and vice versa. This allows the player to navigate and look around using the same joystick without needing extra devices.
 
 * Top cover-button
 
