@@ -43,7 +43,7 @@ Side-Knee-Button:
 * Elastic band 10 mm thick
 
 ## User Documentation
-* Presentation
+* [Additional information - About our Project](Additional%20information)
 * [User Manual](User%20Manual/)
 * [CAD files](CAD%20Files/)
 
