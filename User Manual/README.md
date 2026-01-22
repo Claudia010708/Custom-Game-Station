@@ -40,7 +40,7 @@ Follow these instructions to correctly assemble and install the Custom Game Stat
 
 # Element description
 
-The core element is a custom joystick cap, designed to fit onto a personal wheelchair-joystick, with a Puck.js chip inside. This chip works as a sensor: it detects the joystick movements and translates them into different game actions.
+The core element is a custom joystick cover, designed to fit onto a personal wheelchair-joystick, with a Puck.js chip inside. This chip works as a sensor: it detects the joystick movements and translates them into different game actions.
 Furthermore there is a special cover, which contains the batteries for joystick power supply, host a so-called cover-button, and provide the link for the side-knee-button. This last button is meant to be positioned near the knee, under the cover.
 
 * Detailed functions
