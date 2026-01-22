@@ -1,26 +1,29 @@
 # Custom-Game-Station
-Project results of ASSIST HEIDI course.  
-A Custom Game Station designed for specifically needs of our co-designer. It allows the player to play different games easily.
+Project results of "ASSIST HEIDI - Designing and implementing Assistive Tools for people with disabilities" course.
+
+A Custom Game Station designed for specifical needs of our co-designer. It is a multifunctional adaptive system projected to replace standard joystick and triggers. Specifically, the user requested a customized system to play "Blue Prince", a game requiring strategic navigation and interaction, but can be adapted to easily play multiple games.
+
 
 ## Product overview
-This solution utilizes 1 Puck.js microcontroller which could be easily connected wirelessly to a PC through web Bluwtooth. In addition 2 switch buttons and custom 3D printed support are part of this project.
+This solution is composed of 1 Puck.js microcontroller, which could be easily connected wirelessly to a PC through web Bluetooth. Connected to this, 2 switch buttons and a custom 3D printed support. The solution is meant to be applied on a wheelchair.
 
-![Game-Station](/Photos/IMG_3863.png)
-![Game-Station-Bottom](/Photos/IMG_3861.png)
+
+ <img src="Photos/IMG_3863.png" width="45%">  <img src="Photos/IMG_3861.png" width="45%"> 
+
 
 ## Key Features
 Wheelchair Joystick:
-* Could work both as PC mouse or WASD keys on keyboard, depend on the selected modality
-* Could be recalibrated every time is needed
+* Could work both as PC mouse or WASD keys on keyboard, it depends on the selected modality
+* Could be recalibrated every time needed
 * Adjustable Sensitivity: Settings to adjust joystick sensitivity to individual needs.
 
 Top Cover:
 * Holds the batteries for the Puck.js
-* Have a switch button
-* Allows to connect an additional button, the Side-Knee-Button
+* Hosts a switch button
+* Hosts a plug-in connector to an additional button, the Side-Knee-Button
 
 Side-Knee-Button:
-* Has a specific Side-Knee-Holder
+* Is mounted on a Side-Knee-Holder, meant to be attached on the inner side of the wheelchair
 * Easy to use, convenient positioning and easy operation with minimal effort
 
 
@@ -37,6 +40,7 @@ Side-Knee-Button:
 * 2x Switch buttons
 * 1x Jack Connector
 * 3D printed devices (Joystick Top, Joystick cap, Top Cover, Side Knee holder, Side Knee Button holder)
+* Elastic band 10 mm thick
 
 ## User Documentation
 * Presentation
