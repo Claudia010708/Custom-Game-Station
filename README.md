@@ -1,5 +1,5 @@
 # Custom-Game-Station
-Project results of ASSIST HEIDI course.
+Project results of ASSIST HEIDI course.  
 A Custom Game Station designed for specifically needs of our co-designer. It allows the player to play different games easily.
 
 ## Product overview
