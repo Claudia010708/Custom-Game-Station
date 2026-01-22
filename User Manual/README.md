@@ -17,6 +17,26 @@
 2. Now connect it via traditional Bluetooth of your own PC.
 3. Now the Game-Station is ready to be used.
 
+# 🛠️ Mounting Specifications
+
+Follow these instructions to correctly assemble and install the Custom Game Station on the wheelchair.
+
+### 1. Component Assembly
+* **Joystick Core:** Insert the **Puck.js** microcontroller into the **Joystick Body**. Secure the assembly by snapping the **Joystick Cap** on top.
+* **Side Control:** Attach the **Side Knee Button** to the **Side Holder**.
+
+### 2. Wheelchair Preparation
+* **Removal:** Carefully remove the original rubber cover from the wheelchair's joystick shaft.
+* **Wiring & Connectivity:** * Follow the established color code to connect the internal joystick wires.
+    * Connect the wires to the button integrated into the cover and to the plug-in connector for the lateral (knee) button.
+
+### 3. Final Installation & Securing
+* **Joystick:** Slide the new 3D-printed cover onto the joystick rod.
+* **Base Cover:** Position the cover firmly onto the joystick base. To prevent movement and ensure a stable fit, attach two elastic bands to the lateral hooks:
+    * One elastic band around the back side of the joystick base.
+    * The second elastic band underneath the base.
+* **Side Button Mounting:** Install the Side Holder onto the inner frame of the wheelchair. Adjust the screw to rotate and fix the button in the user's desired ergonomic position.
+* **Final Connection:** Plug the cable from the side knee button into the main cover socket.
 
 # Element description
 
